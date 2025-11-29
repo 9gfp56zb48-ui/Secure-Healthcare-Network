@@ -1,4 +1,17 @@
-Skills Demonstrated
+You can download the configured Packet Tracer file under the 'Enterprise Network.pkt' thread.
+
+The password for all networking device CLI is 'cisco'. If for any reason you are having trouble logging in to a networking device, you can bypass sign in by clicking 'Config' at the top of the device panel, and choosing an interface. This will take you to global configuration mode of the interface in the CLI.
+
+For Wireless LAN Controller the admin login info is:
+
+username: admin password: C!sco123
+
+To connect a wireless device, under the 'Config' panel click Wireless0 under the INTERFACE subsection on the left panel. The Authentication mode will be WPA-PSK and the pasword will be 'gtech123'
+
+After logging in successfully, feel free to look at the configurations by using the 'show start' command.
+
+
+#Skills Demonstrated
 
 This project highlights the design and implementation of a secure, redundant, and scalable enterprise network for a multi-floor corporate environment. The logical design integrates LAN, WLAN, VoIP, DMZ, and management networks while enforcing strong cybersecurity practices, high availability, and seamless access to cloud and on-prem server resources. The solution incorporates multi-ISP redundancy, virtualized services, firewall zoning, and advanced Layer 2/Layer 3 technologies to ensure performance, resiliency, and future scalability.
 
