@@ -5,6 +5,7 @@ If for any reason you are having trouble logging in to a networking device, you 
 This will take you to global configuration mode of the interface in the CLI.
 
 For Wireless LAN Controller the admin login info is:
+
 username: admin
 password: C!sco123
 
